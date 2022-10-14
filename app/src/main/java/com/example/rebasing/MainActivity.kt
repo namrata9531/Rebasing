@@ -9,11 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
     }
 
-    override fun onResume() {
-        super.onResume()
-    }
+    fun ho(){
 
-    override fun onStart() {
-        super.onStart()
     }
 }
