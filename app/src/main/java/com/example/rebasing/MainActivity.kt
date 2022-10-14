@@ -9,6 +9,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
     }
 
+    override fun onResume() {
+        super.onResume()
+    }
+
     override fun onPause() {
         super.onPause()
     }
