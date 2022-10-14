@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy() {
         super.onDestroy()
     }
+
+    override fun onRestart() {
+        super.onRestart()
+    }
 }
